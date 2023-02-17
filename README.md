@@ -11,11 +11,11 @@
 
 *First Project:* *Hello World Sample* 
 
-### Description
+## **Description**
 
 Practice using GitHub by creating a sample _Hello World_ repository. Make sure you add a description to help others understand your project.
 
-### **How to Run Program** 
+## ****How to Run Program**** 
 
 Explain how you would run the program and what files need to be available for the program to run. 
 ```text
@@ -28,7 +28,7 @@ Hello_World/
    
 ```
 
-### **Files Used** 
+## ****Files Used**** 
 
 1. Did you use any datafiles?  
 2. List all filenames
@@ -39,12 +39,12 @@ Hello_World/
 [Baby names from 1880 to present](https://catalog.data.gov/dataset/baby-names-from-social-security-card-applications-national-level-data)
 
   
-### ~~Additional Documentation~~
+## ~~Additional Documentation~~
 
 No additional documentation at this time.  Here is some _italic_ text 
 
 
-### Versioning
+## **Versioning**
 
 Discuss any versioning used especially if you are making major changes throughout the process of your code.
 
