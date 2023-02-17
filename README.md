@@ -1,5 +1,3 @@
-This is a sample of a good README.md file that can be used when describing a project.  You can change the headings to fit your needs, but the idea is to provide a summary of the project, the files used, programs written and how to execute the program.  Think of this as documentation.
-
 # Table of contents
 
 - [PROJECT TITLE](#Project-Title)
@@ -15,11 +13,11 @@ This is a sample of a good README.md file that can be used when describing a pro
 
 ### Description
 
-Practice using GitHub by creating a sample repository. Make sure you add a description to help others understand your project.
+Practice using GitHub by creating a sample _Hello World_ repository. Make sure you add a description to help others understand your project.
 
 ### **How to Run Program** 
 
-Explain here how you would run the program and what files need to be available. 
+Explain how you would run the program and what files need to be available for the program to run. 
 ```text
 Hello_World/
 └── 
@@ -33,8 +31,8 @@ Hello_World/
 ### **Files Used** 
 
 1. Did you use any datafiles?  
-2. List filenames
-3. Where you got them 
+2. List all filenames
+3. List where you got the files from 
 4. What is contained within the data files?
 5. Datafile considerations 
 6. URL links to files - example here:
@@ -49,3 +47,5 @@ No additional documentation at this time.  Here is some _italic_ text
 ### Versioning
 
 Discuss any versioning used especially if you are making major changes throughout the process of your code.
+
+When making a project, discussing and revising versioning is essential for the project to be appealing.
